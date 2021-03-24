@@ -2,7 +2,6 @@
     margin: 0;
     
 }
-
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
  
 body{
@@ -23,14 +22,9 @@ body{
     display: block;
     position: relative;
     left: 5rem;
-    bottom : 20rem;
-    /* top: 10rem;
-    right: 5rem; */
-    /* float: right;  */
-    
+    bottom : 20rem;        
 }
 textarea{
-
     width: 50%;
     height: 10vh;
     display: block;
@@ -43,7 +37,6 @@ textarea{
     height: 10vh;
     border: 0.8rem solid rgb(209, 209, 0);;
     margin:  auto ;
-    /* padding: 1rem; */
     background: white;
 }
 #btn-translate{
@@ -53,6 +46,7 @@ textarea{
     width: 30%;
     border-radius: 2rem;
 }
+
 footer{
     background-color: blue;
     padding: 2rem;
