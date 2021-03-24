@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+ 
+body{
+    font-family: 'Lato', sans-serif; 
+    background: rgba(255, 255, 0, 0.753);
+    overflow-x: hidden; 
+    overflow-y: hidden;
+}
+ .image-minion{
+    display: block;
+    position: relative;
+    top: 0.5rem;
+    left: 0.5rem;
+    max-width: 250px;
+}
+.translate-box{
+     margin: auto;
+    display: block;
+    position: relative;
+    left: 5rem;
+    bottom : 20rem;
+    /* top: 10rem;
+    right: 5rem; */
+    /* float: right;  */
+    
+}
+textarea{
+
+    width: 50%;
+    height: 10vh;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+    border: 0.8rem solid rgb(209, 209, 0);
+}
+#txt-output{
+    width: 50%;
+    height: 10vh;
+    border: 0.8rem solid rgb(209, 209, 0);;
+    margin:  auto ;
+    /* padding: 1rem; */
+    background: white;
+}
+#btn-translate{
+    display: block;
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 30%;
+    border-radius: 2rem;
+}
+footer{
+    background-color: blue;
+    padding: 2rem;
+    text-align: center;
+    color: bisque;
+    position: relative;
+    bottom : 15rem; 
+    width: 100%;  
+}
