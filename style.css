@@ -43,7 +43,8 @@ body{
     border: 0.8rem solid var(--primary-color);
     margin:  auto ;
     background: var(--secondary-color);
-    border-radius: 1.5rem; 
+    border-radius: 1.5rem;
+    font-size: 1.8rem; 
 }
 #btn-translate{
     border-radius: 1.5rem; 
